@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn_white">White</string>
+    <string name="btn_red">Red</string>
+</resources>
